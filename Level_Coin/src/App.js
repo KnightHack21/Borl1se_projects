@@ -6,7 +6,7 @@ import "./styles/RootApp.css";
 import qrCodeIcon from "./images/qr-code.png";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCnS-0fnOGvQW3ySO6ZJgpUQGRzA7108jk",
+  apiKey: "",
   authDomain: "level-ada17.firebaseapp.com",
   projectId: "level-ada17", 
   storageBucket: "level-ada17.appspot.com", 
