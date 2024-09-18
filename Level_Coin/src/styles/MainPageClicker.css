@@ -1,0 +1,36 @@
+.MainPage{
+    max-width: 100vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 120px);
+}
+
+.MainPageTopData{
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    justify-content: space-around;
+    height: 21%;
+}
+
+.MainPageMoneyBox{
+    width: 100%;
+    max-width: 165px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.MainPageMoneyImage{
+    height: 100%;
+}
+
+.MainPageTopDataMenuComponent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

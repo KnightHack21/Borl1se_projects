@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
+
+.CounterMoney{
+    display: flex;
+    max-width: 392px;
+    width: 100%;
+    height: 56px;
+    align-items: center;
+    color: rgb(200, 204, 161);
+    font-family: "Coiny", system-ui;
+    font-size: 22px;
+}
+.CounterMoney .counter{
+    width: 100%;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px transparent;
+    border-top-right-radius: 31px;
+    border-bottom-right-radius: 31px;
+    background-image: linear-gradient(rgb(0, 53, 67), rgb(0, 53, 67)),linear-gradient(to top right, rgb(170, 86, 115),rgb(246, 235, 191));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    margin-left: -20px;
+}
+
+.CounterMoney .CounterCoinMoneyImage{
+    width: 55px;
+    z-index: 1;
+}

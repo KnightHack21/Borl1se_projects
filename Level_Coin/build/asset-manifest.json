@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d3b02f3.css",
+    "main.js": "/static/js/main.eff35dfb.js",
+    "static/js/453.5e560239.chunk.js": "/static/js/453.5e560239.chunk.js",
+    "static/media/background.png": "/static/media/background.70d137bc913203170eb4.png",
+    "static/media/catError.gif": "/static/media/catError.72c4936436482b6d6fae.gif",
+    "static/media/gamepad.png": "/static/media/gamepad.6357ac18e139849bf07f.png",
+    "static/media/qr-code.png": "/static/media/qr-code.e6b66ae163459384d7af.png",
+    "static/media/CoinIcon.png": "/static/media/CoinIcon.deb4a8933fb9f75eaa8d.png",
+    "static/media/Profile.png": "/static/media/Profile.c78fcc24d4c53f518e2f.png",
+    "static/media/questsPageIcon.png": "/static/media/questsPageIcon.96eede1e93a181253c18.png",
+    "static/media/rating.png": "/static/media/rating.3f3f06f754d119841d03.png",
+    "static/media/storePageIcon.png": "/static/media/storePageIcon.e04db8eaa4055e6a9976.png",
+    "static/media/referalsPageIcon.png": "/static/media/referalsPageIcon.639d00f74165067f204b.png",
+    "static/media/mainPageIcon.png": "/static/media/mainPageIcon.a99ce99a0c4b1af486ee.png",
+    "static/media/EnergyLogo.png": "/static/media/EnergyLogo.1dba717c31bddb4425af.png",
+    "static/media/energyStore.png": "/static/media/energyStore.eac292fb00ee416d9578.png",
+    "static/media/gamepadStore.png": "/static/media/gamepadStore.0cc3619c1cb7d29cb483.png",
+    "index.html": "/index.html",
+    "main.4d3b02f3.css.map": "/static/css/main.4d3b02f3.css.map",
+    "main.eff35dfb.js.map": "/static/js/main.eff35dfb.js.map",
+    "453.5e560239.chunk.js.map": "/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3b02f3.css",
+    "static/js/main.eff35dfb.js"
+  ]
+}

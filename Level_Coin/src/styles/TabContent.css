@@ -1,0 +1,11 @@
+.tabcontent{
+    width: 100%;
+    max-width: 100vw;
+    display: none;
+    flex-direction: column;
+    height: 61%;
+    margin-top: 30px;
+    padding: 0 24px;
+    align-items: center;
+    overflow: scroll;
+}

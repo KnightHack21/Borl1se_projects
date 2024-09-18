@@ -1,0 +1,19 @@
+.Counters{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 100vw;
+    padding: 0 24px;
+    align-items: center;
+    justify-content: center;
+    height: 14%;
+}
+.Counters .CountersData{
+    margin-top: 10px;
+    height: 50px;
+    max-width: 392px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
